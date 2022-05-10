@@ -1,0 +1,11 @@
+.primeira:hover {
+    border-color: coral;
+}
+
+.primeira {
+    margin: 5% red;
+    border: 5% brown;
+    padding: 10px;
+    border-width: 10px;
+
+}
