@@ -1,6 +1,16 @@
+body {
+    font-size: 16px;
+}
+
 h1 {
     font-size: 65px;
     color: orange;
+    font-family: sans-serif;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
 }
 
 ul {
@@ -8,5 +18,20 @@ ul {
 }
 
 .cor {
+    background-color: #f0f2;
+    font-style: italic;
+    line-height: 20px;
+    text-decoration: underline rgb(28, 190, 41);
+}
+
+#amarelo {
+    background-color: yellow;
+}
+
+#vermelho {
+    background-color: red;
+}
+
+#marrom {
     background-color: brown;
 }
